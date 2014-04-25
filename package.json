@@ -1,6 +1,6 @@
 {
   "name": "is-ogg",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check if a Buffer/Uint8Array is an OGG file.",
   "license": "MIT",
   "repository": "hemanth/is-ogg",
