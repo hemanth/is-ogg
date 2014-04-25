@@ -1,0 +1,22 @@
+{
+  "name": "is-gif",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is an OGG file",
+  "license": "MIT",
+  "repo": "hemanth/is-oggs",
+  "scripts": [
+    "index.js"
+  ],
+   "keywords": [
+    "ogg",
+    "ogv",
+    "oga",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+}
