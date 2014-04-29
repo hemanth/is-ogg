@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Check if a Buffer/Uint8Array is an OGG file",
   "license": "MIT",
-  "repo": "hemanth/is-ogg",
+  "repository": "hemanth/is-ogg",
   "scripts": [
     "index.js"
   ],
