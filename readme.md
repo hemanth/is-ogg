@@ -1,4 +1,4 @@
-# is-gif [![Build Status](https://travis-ci.org/hemanth/is-ogg.svg?branch=master)](https://travis-ci.org/hemanth/is-gif)
+# is-ogg [![Build Status](https://travis-ci.org/hemanth/is-ogg.svg?branch=master)](https://travis-ci.org/hemanth/is-ogg)
 
 > Check if a Buffer/Uint8Array is an [OGG](http://en.wikipedia.org/wiki/Ogg) file.
 
